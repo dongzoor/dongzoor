@@ -37,7 +37,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://shimmering-salsa-55d.notion.site/cd8e1c88d7de463b90b9a5844f23f33d">
+	<a href="d">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:dongjoo92@gmail.com">
